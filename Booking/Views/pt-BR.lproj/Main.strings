@@ -1,0 +1,177 @@
+
+/* Class = "UILabel"; text = "6"; ObjectID = "1cb-a9-638"; */
+"1cb-a9-638.text" = "6";
+
+/* Class = "UILabel"; text = "JOGADORES"; ObjectID = "1dc-gT-iJF"; */
+"1dc-gT-iJF.text" = "JOGADORES";
+
+/* Class = "UINavigationItem"; title = "Reservas"; ObjectID = "2kR-ux-2cv"; */
+"2kR-ux-2cv.title" = "Reservas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2uU-UH-KNP"; */
+"2uU-UH-KNP.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Digite seu e-mail..."; ObjectID = "44Z-we-6Sr"; */
+"44Z-we-6Sr.placeholder" = "Digite seu e-mail...";
+
+/* Class = "UINavigationItem"; title = "Estatísticas"; ObjectID = "4rT-rk-WTg"; */
+"4rT-rk-WTg.title" = "Estatísticas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5sg-Ns-ybe"; */
+"5sg-Ns-ybe.text" = "Label";
+
+/* Class = "UILabel"; text = "3set"; ObjectID = "7vI-g6-h6o"; */
+"7vI-g6-h6o.text" = "3set";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "8MS-pF-ptm"; */
+"8MS-pF-ptm.text" = "5";
+
+/* Class = "UILabel"; text = "NENHUMA PARTIDA ENCONTRADA"; ObjectID = "8g7-yS-6ed"; */
+"8g7-yS-6ed.text" = "NENHUMA PARTIDA ENCONTRADA";
+
+/* Class = "UILabel"; text = "1set"; ObjectID = "8xk-a4-6Pr"; */
+"8xk-a4-6Pr.text" = "1set";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "And-6Y-kDc"; */
+"And-6Y-kDc.text" = "6";
+
+/* Class = "UILabel"; text = "SENHA"; ObjectID = "Eqw-Ps-sbA"; */
+"Eqw-Ps-sbA.text" = "SENHA";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "FWP-TR-UVj"; */
+"FWP-TR-UVj.placeholder" = "0";
+
+/* Class = "UIBarButtonItem"; title = "+"; ObjectID = "IqE-Hz-Pq0"; */
+"IqE-Hz-Pq0.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Criar conta"; ObjectID = "Iwb-Qb-5nG"; */
+"Iwb-Qb-5nG.normalTitle" = "Criar conta";
+
+/* Class = "UIButton"; normalTitle = "SALVAR PARTIDA"; ObjectID = "KEH-Xl-3cy"; */
+"KEH-Xl-3cy.normalTitle" = "SALVAR PARTIDA";
+
+/* Class = "UILabel"; text = "190.00/hora"; ObjectID = "KMe-QJ-egx"; */
+"KMe-QJ-egx.text" = "190.00/hora";
+
+/* Class = "UILabel"; text = "3set"; ObjectID = "LBK-wu-tyz"; */
+"LBK-wu-tyz.text" = "3set";
+
+/* Class = "UILabel"; text = "1set"; ObjectID = "Ma7-bG-6hw"; */
+"Ma7-bG-6hw.text" = "1set";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NEO-Lp-NTg"; */
+"NEO-Lp-NTg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Digite seu e-mail..."; ObjectID = "QYd-7q-kxw"; */
+"QYd-7q-kxw.placeholder" = "Digite seu e-mail...";
+
+/* Class = "UINavigationItem"; title = "Meus Jogos"; ObjectID = "Qf4-9v-K0D"; */
+"Qf4-9v-K0D.title" = "Meus Jogos";
+
+/* Class = "UILabel"; text = "Jogador"; ObjectID = "RNW-YS-TSY"; */
+"RNW-YS-TSY.text" = "Jogador";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "WzN-XO-6a6"; */
+"WzN-XO-6a6.normalTitle" = "ENTRAR";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "X1q-G9-Klb"; */
+"X1q-G9-Klb.title" = " ";
+
+/* Class = "UILabel"; text = "SENHA"; ObjectID = "X6B-JZ-JJv"; */
+"X6B-JZ-JJv.text" = "SENHA";
+
+/* Class = "UILabel"; text = "NOME"; ObjectID = "XQm-CZ-a2z"; */
+"XQm-CZ-a2z.text" = "NOME";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa."; ObjectID = "XyN-2V-wUP"; */
+"XyN-2V-wUP.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.";
+
+/* Class = "UINavigationItem"; title = "Data"; ObjectID = "Y2u-Jc-c1s"; */
+"Y2u-Jc-c1s.title" = "Data";
+
+/* Class = "UILabel"; text = "E-MAIL"; ObjectID = "ZwH-DR-369"; */
+"ZwH-DR-369.text" = "E-MAIL";
+
+/* Class = "UILabel"; text = "Reservar Quadra"; ObjectID = "au0-7p-BNx"; */
+"au0-7p-BNx.text" = "Reservar Quadra";
+
+/* Class = "UILabel"; text = "Perfil"; ObjectID = "dBA-dt-Gzq"; */
+"dBA-dt-Gzq.text" = "Perfil";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "dGu-dV-9as"; */
+"dGu-dV-9as.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "CRIA CONTA"; ObjectID = "dvX-dT-Y3z"; */
+"dvX-dT-Y3z.normalTitle" = "CRIA CONTA";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "e2O-Kc-avH"; */
+"e2O-Kc-avH.placeholder" = "0";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "eL9-Vf-0bA"; */
+"eL9-Vf-0bA.placeholder" = "0";
+
+/* Class = "UILabel"; text = "CONFIRMAÇÃO"; ObjectID = "eT2-o2-cQO"; */
+"eT2-o2-cQO.text" = "CONFIRMAÇÃO";
+
+/* Class = "UITextField"; placeholder = "Digite seu nome..."; ObjectID = "gWe-qE-gSf"; */
+"gWe-qE-gSf.placeholder" = "Digite seu nome...";
+
+/* Class = "UILabel"; text = "2set"; ObjectID = "gaB-Rq-WfO"; */
+"gaB-Rq-WfO.text" = "2set";
+
+/* Class = "UITextField"; placeholder = "Senha..."; ObjectID = "ib0-qM-xQV"; */
+"ib0-qM-xQV.placeholder" = "Senha...";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "j07-EA-eoU"; */
+"j07-EA-eoU.text" = "R$";
+
+/* Class = "UITextField"; placeholder = "Nova senha..."; ObjectID = "jFh-Nu-fox"; */
+"jFh-Nu-fox.placeholder" = "Nova senha...";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "jQj-Qq-Bce"; */
+"jQj-Qq-Bce.title" = " ";
+
+/* Class = "UILabel"; text = "Meus jogos"; ObjectID = "jUL-PM-XPE"; */
+"jUL-PM-XPE.text" = "Meus jogos";
+
+/* Class = "UINavigationItem"; title = "Quadras"; ObjectID = "kCh-rp-hKn"; */
+"kCh-rp-hKn.title" = "Quadras";
+
+/* Class = "UILabel"; text = "8:00"; ObjectID = "l11-SF-bHG"; */
+"l11-SF-bHG.text" = "8:00";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "lhR-CU-Wwi"; */
+"lhR-CU-Wwi.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m3g-b6-8lt"; */
+"m3g-b6-8lt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mzE-N2-226"; */
+"mzE-N2-226.text" = "Label";
+
+/* Class = "UILabel"; text = "Quadra principal"; ObjectID = "nFF-PB-oig"; */
+"nFF-PB-oig.text" = "Quadra principal";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "pGr-Qo-bTe"; */
+"pGr-Qo-bTe.title" = " ";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "pSz-Iz-aDe"; */
+"pSz-Iz-aDe.placeholder" = "0";
+
+/* Class = "UILabel"; text = "2set"; ObjectID = "qBu-7T-2we"; */
+"qBu-7T-2we.text" = "2set";
+
+/* Class = "UITextField"; placeholder = "Confirmar senha..."; ObjectID = "rH2-pF-OPv"; */
+"rH2-pF-OPv.placeholder" = "Confirmar senha...";
+
+/* Class = "UILabel"; text = "NENHUMA PARTIDA ENCONTRADA"; ObjectID = "s4w-7n-6RC"; */
+"s4w-7n-6RC.text" = "NENHUMA PARTIDA ENCONTRADA";
+
+/* Class = "UILabel"; text = "Cadastro"; ObjectID = "ttX-IG-in3"; */
+"ttX-IG-in3.text" = "Cadastro";
+
+/* Class = "UILabel"; text = "SEU E-MAIL"; ObjectID = "wqi-d9-AJU"; */
+"wqi-d9-AJU.text" = "SEU E-MAIL";
+
+/* Class = "UILabel"; text = "Estatísticas"; ObjectID = "zRN-Bf-jkL"; */
+"zRN-Bf-jkL.text" = "Estatísticas";
